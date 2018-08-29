@@ -2,4 +2,6 @@
 
 ## Just added
 
+A local repo change
+A local repo change (and then changed again remotely)
 A local repo change (and then changed again locally)
